@@ -1,6 +1,7 @@
 ## Opa pessoal, me chamo Mário Henrique !!
 
 **Sobre mim** :shipit:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 - 🎓Sou formado em Bacharelado de Sistema da Informação pela UNIP e Pedagogia pelo CESB.
 - ❤️ Sou apaixonado por tecnologia, games, literatura e seriados.
 - 🔧Nunca trabalhei como desenvolvedor, porém já trabalhei com suporte técnico e gerente de marketing para um colégio de minha cidade.
