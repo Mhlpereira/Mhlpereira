@@ -9,12 +9,14 @@
 - 📖Estudando pela <a href="https://www.growdev.com.br">GrowDev</a> e faço cursos na <a href="https://www.alura.com.br/">Alura</a> e na <a href="https://www.udemy.com">Udemy</a>
 - 🌎 Sempre buscando a verdade e resolvendo problemas, uma pessoa de fácil convivio, comunicativo, bom ouvinte, pró-ativo e organizado.
 
+<img>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhlpereira&show_icons=true&theme=vue&hide_border=true&rank_icon=github" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mhlpereira&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhlpereira&layout=compact&theme=vue&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhlpereira&layout=compact&theme=transparent&hide_border=true" />
 </a>
+</img>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mario-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
