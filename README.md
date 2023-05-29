@@ -40,7 +40,7 @@
 </div>
 
 ##
-**A cobrinha comendo meus commits!**
+**Cobrinha comendo meus commits!**
 <br>
 
 ![snake gif](https://github.com/Mhlpereira/Mhlpereira/blob/output/github-contribution-grid-snake.gif)
