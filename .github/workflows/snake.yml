@@ -1,20 +1,20 @@
 - name: Linting
   uses: snakemake/snakemake-github-action@v1
   with:
-    directory: '.test'
-    snakefile: 'workflow/Snakefile'
+    directory: '.github'
+    snakefile: 'workflows/Snake'
     args: '--lint'
 
 - name: Testing
   uses: snakemake/snakemake-github-action@v1
   with:
     directory: '.test'
-    snakefile: 'workflow/Snakefile'
+    snakefile: 'workflows/snake'
     args: '--cores 1 --use-conda --conda-cleanup-pkgs cache'
     stagein: '' # additional preliminary commands to run (can be multiline)
 
 - name: Create container file
   uses: snakemake/snakemake-github-action@v1
   with:
-    snakefile: 'workflow/Snakefile'
+    snakefile: 'workflows/snake'
     task: 'containerize'
