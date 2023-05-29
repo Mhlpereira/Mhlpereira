@@ -32,14 +32,16 @@
 </div>
 
 ##  
+**Entre em contato comigo!**
 
-<div> 
-  <a href = "mailto:mariohenriquelp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/m%C3%A1rio-henrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>
+  <a href = "mailto:mariohenriquelp@gmail.com"><img width="48" height="48" src="https://img.icons8.com/color-glass/48/gmail.png" target="_blank" alt="gmail"></a>
+  <a href = "https://www.linkedin.com/in/mário-henrique/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank" alt="linkedin"/></a>
 </div>
 
 ##
-
+**A cobrinha comendo meus commits!**
+<br>
 
 ![snake gif](https://github.com/Mhlpereira/Mhlpereira/blob/output/github-contribution-grid-snake.gif)
             
