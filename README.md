@@ -37,6 +37,7 @@
 <div>
   <a href = "mailto:mariohenriquelp@gmail.com"><img width="48" height="48" src="https://img.icons8.com/color-glass/48/gmail.png" target="_blank" alt="gmail"></a>
   <a href = "https://www.linkedin.com/in/mário-henrique/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank" alt="linkedin"/></a>
+  <a href = "https://twitter.com/dogdogoso/"><img width="48" height="48" src="https://img.icons8.com/stickers/100/twitter.png" alt="twitter"/></a>
 </div>
 
 ##
