@@ -2,13 +2,13 @@
 
 **Sobre mim** :shipit:
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
-- 🎓Sou formado em Bacharelado de Sistema da Informação pela UNIP e Pedagogia pelo CESB.
-- ❤️ Sou apaixonado por tecnologia, games, literatura e seriados.
-- 🔧Nunca trabalhei como desenvolvedor, porém já trabalhei com suporte técnico e gerente de marketing para um colégio de minha cidade.
-- 💡Gosto muito de java, porém estou me aventurando agora em Js e Ts.
-- 💻Utilmamente estou focado em desenvolvimendo web, estudando bastante HTML, CSS e Js.
-- 📖Estudando pela <a href="https://www.growdev.com.br">GrowDev</a> e faço cursos na <a href="https://www.alura.com.br/">Alura</a> e na <a href="https://www.udemy.com">Udemy</a>
-- 🌎 Sempre buscando a verdade e resolvendo problemas, uma pessoa de fácil convivio, comunicativo, bom ouvinte, pró-ativo e organizado.
+-  🎓 Sou formado em Sistema da Informação pela UNIP e Pedagogia pelo CESB.
+-  ❤️ Sou apaixonado por tecnologia, games, literatura e seriados.
+-  🔧 Busco emprego como desenvolvedor, já trabalhei como gerente de marketing para um Colégio Objetivo/Gama e suporte técnico na empresa Metrô-DF.
+-  💡 Gosto muito de java e agora me aventurando em Js e Ts.
+-  💻 Ultimamente estou focado em desenvolvimendo web, estudando bastante HTML, CSS e Js.
+-  📖 Estudando pela <a href="https://www.growdev.com.br">GrowDev</a> e faço cursos na <a href="https://www.alura.com.br/">Alura</a> e na <a href="https://www.udemy.com">Udemy</a>.
+-  🌎 Sempre buscando resolver problemas, uma pessoa de fácil convivio, comunicativo, bom ouvinte, pró-ativo e organizado.
 
 <img>
 <a href="https://github.com/anuraghazra/github-readme-stats">
