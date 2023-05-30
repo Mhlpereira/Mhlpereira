@@ -31,6 +31,11 @@
   <img align="center" alt="Mario-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">       
 </div>
 
+##
+🎧**Tocando agora no Spotify!!**
+<br><br>
+[![Spotify](https://novatorem.mhlpereira.vercel.app/api/spotify)](https://open.spotify.com/user/mariowwww)
+
 ##  
 **Entre em contato comigo!**
 
