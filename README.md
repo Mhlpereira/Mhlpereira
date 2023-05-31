@@ -46,7 +46,6 @@
 **🎧Ouvindo agora no Spotify**
 <br><br>
  [![Spotify](https://spotfy-now-playing-mhlpereira.vercel.app/api/spotify)](https://open.spotify.com/user/mariowww)
- <img width="120" height="120" src="https://img.icons8.com/pulsar-color/240/spotify.png" align="right" alt="spotify"/>
 
 
 ##
