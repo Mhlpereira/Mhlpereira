@@ -8,7 +8,7 @@
 -  💡 Tenho grande afinidade com Java e atualmente estou me aventurando em Js e Ts.
 -  💻 Recentemente, tenho me concentrado no desenvolvimento web, estudando intensivamente HTML, CSS e Js.
 -  📖 Estudando pela <a href="https://www.growdev.com.br">GrowDev</a> e também realizando cursos na <a href="https://www.alura.com.br/">Alura</a> e na <a href="https://www.udemy.com">Udemy</a>.
--  🌎 Sou uma pessoa que está sempre em busca de soluções para problemas, sou fácil de conviver, comunicativo, bom ouvinte, pró-ativo e organizado.
+-  🌎 Sou uma pessoa que está sempre em busca de soluções para problemas, fácil de conviver, comunicativo, bom ouvinte, pró-ativo e organizado.
 
 <img>
 <a href="https://github.com/anuraghazra/github-readme-stats">
