@@ -44,9 +44,7 @@
 
 ##
 
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+ [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 
 ##
