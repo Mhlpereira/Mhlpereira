@@ -37,9 +37,8 @@
 <div>
   <a href = "mailto:mariohenriquelp@gmail.com"><img width="48" height="48" src="https://img.icons8.com/stickers/100/gmail-new.png" target="_blank" alt="gmail"></a>
   <a href = "https://www.linkedin.com/in/mário-henrique/"><img width="48" height="48" src="https://img.icons8.com/stickers/100/000000/linkedin.png" target="_blank" alt="linkedin"/></a>
-  <a href = "https://twitter.com/dogdogoso/"><img width="48" height="48" src="https://img.icons8.com/stickers/100/twitter.png" target="_blank" alt="twitter"/></a>
   <a href = "https://www.reddit.com/user/ShoddyGuava6480"><img width="48" height="48" src="https://img.icons8.com/stickers/100/reddit.png" target="_blank" alt="reddit"/></a>
-  <a href = "https://discord.com/users/Mário#2968"><img width="48" height="48" src="https://img.icons8.com/stickers/100/000000/discord-logo.png" target="_blank" alt="discord-logo"/></a>
+  <a href = "https://discord.com/users/marimdev"><img width="48" height="48" src="https://img.icons8.com/stickers/100/000000/discord-logo.png" target="_blank" alt="discord-logo"/></a>
 </div>
 
 ##
@@ -47,11 +46,4 @@
 <br><br>
  [![Spotify](https://spotfy-now-playing-mhlpereira.vercel.app/api/spotify)](https://open.spotify.com/user/mariowww)
 
-
-##
-**Cobrinha comendo meus commits!**
-<br>
-
-![snake gif](https://github.com/Mhlpereira/Mhlpereira/blob/output/github-contribution-grid-snake.gif)
-            
-          
+ 
