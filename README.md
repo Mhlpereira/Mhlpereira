@@ -4,10 +4,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 -  🎓 Sou formado em Sistema da Informação pela UNIP e Pedagogia pelo CESB.
 -  ❤️ Sou apaixonado por tecnologia, games, literatura e seriados.
--  🔧  Estou buscando oportunidades de emprego como desenvolvedor. Anteriormente, trabalhei como gerente de marketing para o Colégio Objetivo/Gama e também como suporte técnico na empresa Metrô-DF.
--  💡 Tenho grande afinidade com Java e atualmente estou me aventurando em Js e Ts.
--  💻 Recentemente, tenho me concentrado no desenvolvimento web, estudando intensivamente HTML, CSS e Js.
--  🌎 Sou uma pessoa que está sempre em busca de soluções para problemas, fácil de conviver, comunicativo, bom ouvinte, pró-ativo e organizado.
+-  🔧  Estou buscando oportunidades de emprego como desenvolvedor. Anteriormente, trabalhei como social média para o Colégio Objetivo/Gama e também como suporte técnico na empresa Metrô-DF.
+-  💡 Tenho conhecimento em ReactJs, NodeJs, TypeScript e AWS.
+-  🌎 Sou uma pessoa fácil de conviver, comunicativo, bom ouvinte, pró-ativo e organizado.
 
 <img>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -40,9 +39,4 @@
   <a href = "https://discord.com/users/marimdev"><img width="48" height="48" src="https://img.icons8.com/stickers/100/000000/discord-logo.png" target="_blank" alt="discord-logo"/></a>
 </div>
 
-##
-**🎧Ouvindo agora no Spotify**
-<br><br>
- [![Spotify](https://spotfy-now-playing-mhlpereira.vercel.app/api/spotify)](https://open.spotify.com/user/mariowww)
 
- 
