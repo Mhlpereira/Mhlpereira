@@ -4,7 +4,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 -  🎓 Sou formado em Sistema da Informação pela UNIP e Pedagogia pelo CESB.
 -  ❤️ Sou apaixonado por tecnologia, games, literatura e seriados.
--  🔧  Estou buscando oportunidades de emprego como desenvolvedor. Anteriormente, trabalhei como social média para o Colégio Objetivo/Gama e também como suporte técnico na empresa Metrô-DF.
 -  💡 Tenho conhecimento em ReactJs, NodeJs, TypeScript e AWS.
 -  🌎 Sou uma pessoa fácil de conviver, comunicativo, bom ouvinte, pró-ativo e organizado.
 
