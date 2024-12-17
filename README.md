@@ -1,12 +1,11 @@
 ## Bem vindo, me chamo Mário Henrique !!
 
-**Sobre mim** :shipit:
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+**Tech Stack** :shipit:
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,aws,ts" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,aws,ts,postgres,mongodb,docker,tailwind" />
   </a>
 </p>
 
