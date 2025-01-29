@@ -1,4 +1,4 @@
-## Bem vind!!
+## Bem vindo!!
 
 **Tech Stack** :shipit:
 
