@@ -1,4 +1,4 @@
-## Bem vindo, me chamo Mário Henrique !!
+## Bem vind!!
 
 **Tech Stack** :shipit:
 
