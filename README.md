@@ -1,11 +1,15 @@
 ## Bem vindo!!
 
+**Sobre**
+
+Olá, sou Mário Henrique, 32 anos, formado em Sistemas de Informação e atualmente cursando Engenharia de Software. Possuo foco em desenvolvimento backend, com conhecimentos práticos em frontend.
+
 **Tech Stack** :shipit:
 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,ts,postgres,mongodb,docker,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,ts,postgres,mongodb,docker,react,tailwind" />
   </a>
 </p>
 
