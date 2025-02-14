@@ -10,7 +10,7 @@ Possuo expertise no desenvolvimento backend, complementada por sólidos conhecim
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,mongodb,docker,aws,react,tailwindgit,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,mongodb,docker,aws,react,tailwind,git" />
   </a>
 </p>
 
