@@ -2,7 +2,8 @@
 
 **Sobre**
 
-Olá, sou Mário Henrique, 32 anos, formado em Sistemas de Informação e atualmente cursando Engenharia de Software. Possuo foco em desenvolvimento backend, com conhecimentos práticos em frontend.
+Olá, sou Mário Henrique, 32 anos, formado em Sistemas de Informação e atualmente cursando Engenharia de Software. 
+Possuo expertise no desenvolvimento backend, complementada por sólidos conhecimentos práticos em frontend.
 
 **Tech Stack** :shipit:
 
