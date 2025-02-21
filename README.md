@@ -28,7 +28,7 @@ I am currently developing Animus, a management software for training centers aim
 </div>
 
 
-##Tech Stack:shipit:
+## Tech Stack
 
 
 <div align="center">
