@@ -1,18 +1,47 @@
 ## Bem vindo!!
 
-**Sobre**
+**Sobre** 
 
-Olá, sou Mário Henrique, 32 anos, formado em Sistemas de Informação e atualmente cursando Engenharia de Software. 
-Possuo expertise no desenvolvimento backend, complementada por sólidos conhecimentos práticos em frontend.
+Olá, sou Mário Henrique, 32 anos, formado em Sistemas de Informação e atualmente cursando Engenharia de Software.
+Tenho experiência no desenvolvimento backend e bons conhecimentos em frontend.
+
+
+**About**
+
+Hello, I'm Mário Henrique, 32 years old, with a degree in Information Systems and currently studying Software Engineering.
+I have experience in backend development and a solid understanding of frontend technologies.
+
+## Project
+
+PT-BR:
+
+Atualmente, estou desenvolvendo o Animus, um software de gestão para centros de treinamento, com o objetivo de melhorar a comunicação entre professores/personal trainers e seus alunos.
+
+EN-US:
+
+I am currently developing Animus, a management software for training centers aimed at improving communication between teachers/personal trainers and their students.
+
+<div align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mhlpereira&repo=Animus&theme=transparent)](https://github.com/Mhlpereira/Animus)
+ 
+</div>
+
+
+##
 
 **Tech Stack** :shipit:
 
 
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,mongodb,docker,aws,react,tailwind,git" />
   </a>
 </p>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhlpereira&layout=compact&theme=transparent)
+
+</div>
 
 ##  
 **Entre em contato comigo**
