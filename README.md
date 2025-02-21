@@ -28,9 +28,7 @@ I am currently developing Animus, a management software for training centers aim
 </div>
 
 
-##
-
-**Tech Stack** :shipit:
+##Tech Stack:shipit:
 
 
 <div align="center">
@@ -43,8 +41,7 @@ I am currently developing Animus, a management software for training centers aim
 
 </div>
 
-##  
-**Entre em contato comigo**
+##  Entre em contato comigo | Contact me
 
 
 <div>
