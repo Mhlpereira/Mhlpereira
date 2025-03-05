@@ -24,6 +24,7 @@ I am currently developing Animus, a management software for training centers aim
 <div align="center">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mhlpereira&repo=Animus&theme=transparent)](https://github.com/Mhlpereira/Animus)
+
  
 </div>
 
@@ -37,7 +38,7 @@ I am currently developing Animus, a management software for training centers aim
   </a>
 </p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhlpereira&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhlpereira&layout=compact&theme=transparent)
 
 </div>
 
