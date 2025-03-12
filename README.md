@@ -34,12 +34,8 @@ I am currently developing Animus, a management software for training centers aim
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,postgres,mongodb,docker,aws,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,ts,postgres,mongodb,docker,redis,aws,react,tailwind,git" />
   </a>
-</p>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhlpereira&layout=compact&theme=transparent)
-
 </div>
 
 ##  Entre em contato comigo | Contact me
