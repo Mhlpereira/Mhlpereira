@@ -34,7 +34,7 @@ I am currently developing Animus, a management software for training centers aim
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,py,ts,postgres,mongodb,docker,redis,aws,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,py,ts,postgres,mongodb,docker,redis,aws,react,tailwind,git,nest,next" />
   </a>
 </div>
 
