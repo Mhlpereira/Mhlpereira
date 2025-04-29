@@ -1,5 +1,6 @@
 ## Welcome!
 
+<img src="https://raw.githubusercontent.com/Mhlpereira/Mhlpereira/master/assets/github-header-image.png" alt="GitHub Header" width="100%">
 
 **About**
 Hello, I'm Mário Henrique, a 32-year-old professional with a degree in Information Systems. I have solid experience in backend development and a strong understanding of frontend technologies. I also have experience with automation, RPA (Robotic Process Automation), and web scraping.
