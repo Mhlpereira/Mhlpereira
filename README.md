@@ -5,11 +5,6 @@
 ## About
 Hello, I'm Mário Henrique, a 33-year-old professional with a degree in Information Systems. I have solid experience in backend development and a strong understanding of frontend technologies. I also have experience with automation, RPA (Robotic Process Automation), and web scraping.
 
-## Project
-
-I am currently developing Animus, a management software for training centers aimed at improving communication between teachers/personal trainers and their students.
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
