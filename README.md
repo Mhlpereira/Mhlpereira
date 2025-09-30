@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Mhlpereira/Mhlpereira/master/assets/github-header-image.png" alt="GitHub Header" width="100%">
 
 ## About
-Hello, I'm Mário Henrique, a professional with a degree in Information Systems. I have solid experience in backend development and a strong understanding of frontend technologies. I also have experience with automation, RPA (Robotic Process Automation), and web scraping.
+Hello, my name is Mário Henrique. I have solid experience in backend development, DevOps, and frontend technologies. I also have extensive expertise in automation and RPA (Robotic Process Automation). Additionally, I apply software architecture practices, work with CI/CD pipelines, and have hands-on experience with AWS.
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
