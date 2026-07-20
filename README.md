@@ -1,11 +1,11 @@
 <h1 align="center">Mário Henrique Lino Pereira</h1>
 
 <p align="center">
-  <b>Senior Full Stack Engineer</b> &nbsp;·&nbsp; Node.js / TypeScript &nbsp;·&nbsp; Backend-focused &nbsp;·&nbsp; Harness Engineering
+  <b>Full Stack Engineer</b> &nbsp;·&nbsp; Node.js / TypeScript &nbsp;·&nbsp; Backend-focused &nbsp;·&nbsp; Harness Engineering
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Engineer+%7C+Backend-focused;High-performance+APIs+with+Node.js+%26+NestJS;Clean+Architecture+%7C+SOLID+%7C+Event-Driven+Design;Harness+Engineering+%26+Spec-Driven+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Full+Stack+Engineer+%7C+Backend-focused;High-performance+APIs+with+Node.js+%26+NestJS;Clean+Architecture+%7C+SOLID+%7C+Event-Driven+Design;Harness+Engineering+%26+Spec-Driven+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
