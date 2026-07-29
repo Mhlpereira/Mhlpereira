@@ -23,7 +23,7 @@ Full Stack Engineer with a **backend focus**, specialized in building high-perfo
 
 ```yaml
 name:      Mário Henrique Lino Pereira
-role:      Senior Full Stack Engineer (Backend-focused)
+role:      Full Stack Engineer (Backend-focused)
 location:  Brazil · 100% Remote
 stack:     Node.js · TypeScript · NestJS · PostgreSQL · Kafka · AWS
 mindset:   Clean Architecture · SOLID · Spec-Driven · Harness Engineering
